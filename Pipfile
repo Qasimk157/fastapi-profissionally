@@ -18,6 +18,11 @@ sqlalchemy = "==1.4.36"
 uvicorn = "==0.17.6"
 python-interface = "==1.6.1"
 gtts = "==1.1.6"
+text-to-speech = "==1.5.3"
+pyttsx3 = "==2.90"
+speech = "==0.5.2"
+python-multipart = "==0.0.5"
+gunicorn = "*"
 
 [dev-packages]
 
